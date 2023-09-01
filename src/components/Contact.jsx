@@ -74,7 +74,7 @@ const Contact = () => {
       <SectionHeading
           headText="Ahora un poco"
           title="Sobre Mi"
-          text="Los siguientes proyectos muestran mis habilidades y experiencia a través de ejemplos concretos de lo que he aprendido en mis estudios. Cada proyecto está brevemente descrito e incluye enlaces a repositorios de código y demostraciones en vivo. Esto refleja mi capacidad para resolver problemas complejos, trabajar con diversas tecnologías y gestionar proyectos de manera efectiva.
+          text="Soy una persona apasionada por la vida y siempre en busca de nuevas experiencias. En mis tiempos libres me gusta entrenar, escuchar musica y emprender nuevos aprendizajes y ejercicios. Más allá de mis hobbies como leer o jugar videojuegos, siempre estoy ansioso por aprender cosas nuevas y expandir mis horizontes. La curiosidad es mi motor, y estoy emocionado por lo que el futuro me depara en términos de nuevos intereses y descubrimientos.
           "
       />
     <div className={`mt-12 flex xl:flex-row flex-col-reverse gap-10 overflow-hidden`}>

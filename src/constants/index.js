@@ -107,8 +107,8 @@ import {
       ],
       image: codex,
       
-      source_code_link: "https://github.com/jeroginaca/codex",
-      live_site_link: "https://codex-app-beta.vercel.app/",
+      source_code_link: "https://github.com/FrancoMiguez21/codex-app",
+      live_site_link: "https://codex-app-blue.vercel.app/",
     },
     {
       name: "Car Hub",
@@ -129,8 +129,8 @@ import {
         },
       ],
       image: carHub,
-      source_code_link: "https://github.com/jeroginaca/car-showcase",
-      live_site_link: "https://car-showcase-olive-chi.vercel.app/",
+      source_code_link: "https://github.com/FrancoMiguez21/car-showcase",
+      live_site_link: "https://car-showcase-psi-nine.vercel.app/",
   
     },
     {
@@ -152,8 +152,8 @@ import {
         },
       ],
       image: promptopia,
-      source_code_link: "https://github.com/jeroginaca/promptopia",
-      live_site_link: "https://promptopia-phi-olive.vercel.app/",
+      source_code_link: "https://github.com/FrancoMiguez21/promptopia-final",
+      live_site_link: "https://promptopia-final.vercel.app/",
   
     },
     {
@@ -175,8 +175,8 @@ import {
         },
       ],
       image: musicApp,
-      source_code_link: "https://github.com/jeroginaca/music-app",
-      live_site_link: "https://music-app-mu-three.vercel.app/",
+      source_code_link: "https://github.com/FrancoMiguez21/react-music-app",
+      live_site_link: "https://react-music-app-gamma.vercel.app/",
     },
     {
       name: "Youtube Clone",
@@ -197,8 +197,8 @@ import {
         },
       ],
       image: youtubeClone,
-      source_code_link: "https://github.com/jeroginaca/youtube-clone",
-      live_site_link: "https://youtube-clone-one-sage.vercel.app/",
+      source_code_link: "https://github.com/FrancoMiguez21/react-youtube-clone",
+      live_site_link: "https://react-youtube-clone-rouge.vercel.app/",
   
     },
     {
@@ -220,8 +220,8 @@ import {
         },
       ],
       image: movieApp,
-      source_code_link: "https://github.com/jeroginaca/react-movie-app",
-      live_site_link: "https://react-movie-app-phi-bay.vercel.app/",
+      source_code_link: "https://github.com/FrancoMiguez21/react-movie-app",
+      live_site_link: "https://react-movie-app-gules.vercel.app/",
   
     },
   ];
